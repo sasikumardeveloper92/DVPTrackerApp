@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVPTrackerApp.Android", "DVPTrackerApp\DVPTrackerApp.Android\DVPTrackerApp.Android.csproj", "{36EAA413-18BA-43C6-A41A-31C3443529FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVPTrackerApp", "DVPTrackerApp\DVPTrackerApp\DVPTrackerApp.csproj", "{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EAA413-18BA-43C6-A41A-31C3443529FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D6F2A7-97A1-48CB-A5F9-05F52A20AA9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB27A61A-CDFE-4CD0-BF41-035010EF0E21}
+	EndGlobalSection
+EndGlobal
